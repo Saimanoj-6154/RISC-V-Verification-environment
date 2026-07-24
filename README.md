@@ -161,3 +161,15 @@ verif_ip/       Optional verification IP
 ```
 
 ---
+
+## Tools
+
+- SystemVerilog
+- UVM
+- QuestaSim
+- ModelSim
+- Synopsys VCS
+- Cadence Xcelium
+- Verilator (limited support)
+
+---
