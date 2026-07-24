@@ -11,3 +11,18 @@ A reusable UVM-based verification environment for verifying a RISC-V processor c
 - Scoreboard-based checking
 - Regression support
 - Modular and scalable design
+
+---
+
+## Verification Components
+
+- Interface
+- Transaction
+- Driver
+- Monitor
+- Sequencer
+- Agent
+- Environment
+- Scoreboard
+- Functional Coverage
+- Test Library
