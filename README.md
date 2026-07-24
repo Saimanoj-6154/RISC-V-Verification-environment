@@ -26,3 +26,14 @@ A reusable UVM-based verification environment for verifying a RISC-V processor c
 - Scoreboard
 - Functional Coverage
 - Test Library
+
+## Directory Structure
+
+```text
+docs/           Documentation
+rtl/            DUT and reference models
+tb/             Complete UVM Testbench
+sim/            Simulation scripts
+regression/     Regression framework
+verif_ip/       Optional verification IP
+```
