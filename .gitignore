@@ -1,0 +1,23 @@
+# Simulator build products
+work/
+transcript
+modelsim.ini
+*.wlf
+*.vcd
+*.fsdb
+*.log
+simv*
+csrc/
+# Run outputs
+sim/logs/*
+!sim/logs/.gitkeep
+sim/waves/*
+!sim/waves/.gitkeep
+regression/results/*
+!regression/results/.gitkeep
+# Python / editor
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
